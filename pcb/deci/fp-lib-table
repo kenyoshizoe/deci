@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name deci)(type KiCad)(uri ${KIPRJMOD}/deci.pretty)(options "")(descr ""))
+  (lib (name logo)(type KiCad)(uri ${KIPRJMOD}/logo.pretty)(options "")(descr ""))
+  (lib (name hirose)(type KiCad)(uri ${KIPRJMOD}/HIROSE_CX70M-24P1.pretty)(options "")(descr ""))
+)

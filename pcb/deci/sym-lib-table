@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "corne-chocolate-rescue")(type "Legacy")(uri "C:/Users/kenyo/Desktop/crkbd-main/corne-chocolate/pcb/corne-chocolate-rescue.lib")(options "")(descr ""))
+  (lib (name "deci-rescue")(type "Legacy")(uri "${KIPRJMOD}/deci-rescue.lib")(options "")(descr ""))
+)
